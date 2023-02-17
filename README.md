@@ -1,4 +1,6 @@
 # csc340-23-csp-probelms
+You will first probably need to run this from the commandline:
+`pip install python-constraint`
 
 ## Part 1
 Follow along in class to solve the Australia coloring problem. Namely, using the colors red, green, and blue color all the states such that no adjacent states have the same color. 
